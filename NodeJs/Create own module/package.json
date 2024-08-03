@@ -1,0 +1,14 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "A simple package ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "greet"
+  ],
+  "author": "Abhishek",
+  "license": "ISC"
+}
